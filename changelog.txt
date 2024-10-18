@@ -1,0 +1,63 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 27-07-2024
+  Bugfixes:
+    - fix sound path bug
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 27-07-2024
+  Major Features:
+    - Remade a major part of the code to make independent of Krastorio 2
+    - All credit for graphics and code still go to the Krastorio 2 Teams
+    - Added vanilla recipe and K2 recipe and technology
+---------------------------------------------------------------------------------------------------
+Version: 0.3.5
+Date: 2024-01-25
+  Bugfixes:
+    - remove "stolen" text 
+---------------------------------------------------------------------------------------------------
+Version: 0.3.4
+Date: 2024-01-23
+  Bugfixes:
+    - fix teleporter recipe again ...
+---------------------------------------------------------------------------------------------------
+Version: 0.3.3
+Date: 2024-01-23
+  Minor Features:
+    - Change GPS recipe if settings is enable    
+  Bugfixes:
+    - fix more bad code (coding is not my forte)
+    - made the settings "cheaper teleporter" work now
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 2024-01-23
+  Minor Features:
+    - Change display name of the mod
+    - add optinal mod dependancies
+---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 2024-01-23
+  Bugfixes:
+    - Fix cheaper teleporter recipe not working
+    - add more prerequisites to technology (so it make sense)
+    - when space exploration change the reicpe category to only be craftable in space
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2024-01-21
+  Features:
+    - added setting for cheaper teleporter
+    - added compatibilitry with space exploration
+    - Changed mod name to Interplanetary-Krastorio (because space exploration blocks teleporter mods )
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2024-01-20
+  Features:
+    - Interplanetary-Teleporter
+  Bugfixes:
+    - wrong name used for data phase
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-01-19
+  Features:
+    - Starting beta version
+    - copied 99% code from Krastorio 2 mod (all credit to raiguard)
